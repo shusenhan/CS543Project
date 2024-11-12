@@ -1,5 +1,3 @@
-Here is an English README template for your YOLOv5 lane detection project:
-
 YOLOv5 Real-Time Lane Detection Project
 
 This project aims to perform real-time lane detection using YOLOv5. We utilize the CULane dataset to train the model to detect lane lines accurately and efficiently. The project is built on PyTorch and uses dice_loss as a loss function to improve segmentation performance.
