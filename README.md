@@ -81,5 +81,3 @@ Contributing
 We welcome issues and pull requests to help improve the project. Please test all functionality before submitting code.
 
 If you have any questions, feel free to reach out through the project page. Thank you for your interest and contributions!
-
-Feel free to adjust this README template according to your project’s specific requirements.
