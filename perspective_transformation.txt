@@ -1,3 +1,0 @@
-Since the file is over 100mb, it cannot be uploaded to GitHub. Here's the link:
-
-https://colab.research.google.com/drive/1jgtQWH5J-srGooKfYeYimdg2DoOYeOXG?usp=sharing
